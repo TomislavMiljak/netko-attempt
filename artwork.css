@@ -9,8 +9,11 @@ padding: 0;
 }
 body {
     font-size: 1.6rem;
+    background: url(green.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
-
 .album {
     display: flex;
     flex-direction: column;
