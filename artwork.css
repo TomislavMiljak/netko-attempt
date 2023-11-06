@@ -42,6 +42,7 @@ header nav ul li a {
 }
 h1 {
     text-align: center;
+    padding-bottom: 3rem;
 }
 .vertical {
     display: flex;
@@ -60,4 +61,5 @@ h1 {
     justify-content: center;
     align-items: center;
     gap: 2rem;
+    padding-bottom: 2rem;
 }
